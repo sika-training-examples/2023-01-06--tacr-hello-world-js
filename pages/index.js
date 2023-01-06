@@ -1,6 +1,6 @@
 import React from "react";
 
 let Home = () => {
-    return <h1>Hello TACR</h1>;
+    return <center><h1>Hello TACR</h1></center>;
 }
 export default Home;
